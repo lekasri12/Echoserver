@@ -75,10 +75,12 @@ print(f"Received {data!r}")
 ```
 ## OUTPUT:
 SERVER:
-![Screenshot 2025-03-03 114804](https://github.com/user-attachments/assets/690ae136-3851-4dcb-9f85-a5556c0d1249)
+![Screenshot 2025-03-03 115852](https://github.com/user-attachments/assets/a0d3736d-4656-4abe-a215-d87067ed0e0c)
+
 
 CLIENT:
-![Screenshot 2025-03-03 114824](https://github.com/user-attachments/assets/3bf45636-ebf2-4736-aa7a-fab7f50fe3dc)
+![Screenshot 2025-03-03 115830](https://github.com/user-attachments/assets/de6e115c-da97-4f0c-87e2-2b98d20c0b58)
+
 
 
 
